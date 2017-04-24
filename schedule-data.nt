@@ -2,3 +2,13 @@
 # και τις δηλώσεις rdf:type για κάθε οντότητα.
 
 
+_:0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Lecture> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Μυλωνάς <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Teacher> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Αίθουσα%20ΠΜΣ <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vovab#Room . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Εξόρυξη%20δεδομένων%20και%20διαχείριση%20γνώσης <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Course> . 
+_:1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Lecture> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Στεφανιδάκης <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Teacher> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Προγραμματισμός%20Σημασιολογικού%20Ιστού <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Course> . 
+_:2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Lecture> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Βλάμος <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Teacher> . 
+http://dilab77.ionio.gr/swp/p12kast/resource/Βιοπληροφορική <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/p12kast/vocab#Course> . 
